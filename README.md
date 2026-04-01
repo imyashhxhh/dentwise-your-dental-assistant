@@ -41,7 +41,7 @@ An AI-powered dental assistant platform designed to streamline patient managemen
 ## ⚙️ Setup & Installation
 
 1️⃣ Install dependencies
-npm install
+  - npm install
 2️⃣ Setup environment variables
 
 Create a .env file and add:
@@ -52,4 +52,4 @@ CLERK_SECRET_KEY=your_secret
 RESEND_API_KEY=your_key
 
 3️⃣ Run the development server
-npm run dev
+  - npm run dev
