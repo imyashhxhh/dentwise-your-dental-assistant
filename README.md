@@ -1,6 +1,6 @@
 # 🦷 DentWise – AI Voice Dental Assistant
 
-🔗 **Live Demo:** https://your-live-link.vercel.app  
+🔗 **Live Demo:** https://dentwise-your-dental-git-936188-yashtripathi8558-8073s-projects.vercel.app/  
 
 An AI-powered dental assistant platform designed to streamline patient management, automate workflows, and enhance clinic efficiency.
 
